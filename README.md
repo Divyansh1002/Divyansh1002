@@ -7,7 +7,7 @@ Currently exploring deep learning, graph networks, and whatever looks interestin
 
 **Things I've built:**
 - 🧬 AI drug target identification using GAT + Transformers
-- 🍅 Plant disease detection with MobileNetV2
+- 🍅 Tomato Leaf disease detection with MobileNetV2
 - 🏎️ [RevF1](https://divyansh1002.github.io/RevF1/) — F1 standings but reversed, because why not
 
 **Stack I use:**
